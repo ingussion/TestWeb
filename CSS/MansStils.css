@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 21, 2021, 2:34:23 PM
+    Author     : ingus
+*/
+body {background-color: powderblue;}
+p {color: midnightblue; font-size: 150%; font-weight: bold;}
+table, th, td, tr {border: 2px solid black;}
+ul {font-size: 125%;color: blueviolet;}
+title {font-size: 200%;}
+h1 {font-size: 175%}
